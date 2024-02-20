@@ -9,3 +9,6 @@
 * [Amazon DynamoDB: A Scalable, Predictably
 Performant, and Fully Managed NoSQL
 Database Service](atc22-elhemali.pdf)
+
+## CI/CD
+* [Best Publically Availiable Description of Amazon/AWS Pipeline System](pipelines.pdf)
