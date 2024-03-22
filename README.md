@@ -3,12 +3,11 @@
 ## Distributed Systems
 * [Chain Replication for Supporting High Throughput and Availability](OSDI04.pdf)
 * [ZooKeeper: Wait-free coordination for Internet-scale systems](zookeeper.pdf)
+* [Paxos Made Moderately Complex](paxos.pdf)
 
 ## NOSQL Databases
 * [Dynamo: Amazon’s Highly Available Key-value Store](amazon-dynamo-sosp2007.pdf)
-* [Amazon DynamoDB: A Scalable, Predictably
-Performant, and Fully Managed NoSQL
-Database Service](atc22-elhemali.pdf)
+* [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](atc22-elhemali.pdf)
 
 ## OLAP Systems
 * [Snowflake Whitepaper](p215-dageville-snowflake.pdf)
