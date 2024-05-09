@@ -15,3 +15,6 @@
 
 ## CI/CD
 * [Best Publically Availiable Description of Amazon/AWS internal pipeline system](pipelines.pdf)
+
+## Architecture
+* [Cell Based Architecture](https://github.com/EdmundMartin/InterestingPapers/blob/main/reducing-scope-of-impact-with-cell-based-architecture.pdf)
